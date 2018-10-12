@@ -3,7 +3,7 @@ package groestl
 import (
 	"fmt"
 
-	"github.com/samli88/go-x11-hash/hash"
+	"github.com/Groestlcoin/go-groestl-hash/hash"
 )
 
 // HashSize holds the size of a hash in bytes.

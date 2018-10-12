@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/samli88/go-x11-hash/nist"
+	"github.com/Groestlcoin/go-groestl-hash/nist"
 )
 
 func TestApi(t *testing.T) {
